@@ -1,4 +1,4 @@
-This is a test file.
+Is this a test file?
 
-これはテストファイルです。
+これはテストファイルですか?
 
